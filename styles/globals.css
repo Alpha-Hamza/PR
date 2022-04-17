@@ -11,12 +11,14 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
     
     font-family: 'Raleway', sans-serif;
+    text-decoration-color: #1A202C;
       
     
 }
 h1,
 .inter {
   font-family: 'Lato', sans-serif;
+  text-decoration-color: #1A202C;
   
 }
 a {

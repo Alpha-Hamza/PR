@@ -2,13 +2,13 @@
 
 export default function Header() {
   return (
-    <div className="mx-auto container ">
-      <div className="absolute  ">
-        <img src="./Images/BG1.svg" alt=" " className=" " />
+    <div className=" ">
+      <div className="absolute  2xl:w-[50%] xl:w-[60%] lg:w-[70%] h-[1050px]    ">
+        <img src="./Images/BG1.png" alt=" " className="w-full h-[1050px] " />
         <img
           src="./Images/desktop.svg"
           alt=" "
-          className=" absolute top-0 my-[30%] -left-[16.5%] "
+          className=" absolute top-[20%]  2xl:-ml-40 xl:-ml-20  "
         />
 
         <div className="flex  absolute top-0 mt-[69px] px-[90px] space-x-[22px]    ">

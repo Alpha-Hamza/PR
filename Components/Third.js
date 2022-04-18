@@ -47,7 +47,7 @@ export default function Third() {
                 </div>
               </div>
               <div className="flex relative ml-5 mt-[37px]">
-                <img src="./Images/TSi2.svg" alt=" " className="" />
+                <img src="./Images/Tsi2.svg" alt=" " className="" />
                 <img
                   src="./Images/Tsi3.svg"
                   alt=" "

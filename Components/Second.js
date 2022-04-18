@@ -4,8 +4,12 @@ export default function Second() {
   return (
     <div className="mx-auto container mt-[155px]  ">
       <div className="flex">
-        <div className="w-[50%]">
+        <div className="relative w-[50%]">
           <img src="./images/SS.svg" alt=" " className="mt-[44px] " />
+          <div className=" absolute bg-opacity-[68%] top-[33%] left-[18%] bg-[#FFFFFF] w-[220px] h-[220px] rounded-full  flex justify-center items-center">
+          <img src="./images/ssi2.svg" alt=" " className=" cursor-pointer" />
+
+          </div>
         </div>
         <div className="w-[50%] mt-20">
           <h1 className="text-[64px] leading-[70.4px] text-[#1A202C] font-black tracking-[-2.5%]">
@@ -26,46 +30,46 @@ export default function Second() {
           </div>
         </div>
       </div>
-      <div className="grid grid-row-1 grid-flow-col  gap-[32px] h-[192px] mt-[259px]  ">
+      <div className="grid grid-row-1 grid-flow-col  gap-[32px] h-[192px] mt-[259px] -mb-[8%]   ">
         {/* <div className="flex space-x-[32px] justify-center mt-[259px]"> */}
-        <div className="relative bg-[#F56565] ">
+        <div className="relative bg-[#FFFFFF] shadow-lg ">
           <h1 className="text-[32px] text-[#1A202C] font-bold leading-[38.4px] w-[50%] ml-5 mt-5 ">
             Download the app
           </h1>
           <img
             src="./images/ssi1.svg"
             alt=" "
-            className=" absolute right-5 bottom-0  "
+            className=" absolute right-5 bottom-5 "
           />
         </div>
-        <div className="relative bg-[#F56565]">
+        <div className="relative bg-[#FFFFFF] shadow-lg">
           <h1 className="text-[32px] text-[#1A202C] font-bold leading-[38.4px] w-[50%] ml-5 mt-5 ">
             Download the app
           </h1>
           <img
             src="./images/ssi1.svg"
             alt=" "
-            className=" absolute right-5 bottom-0  "
+            className=" absolute right-5 bottom-5  "
           />
         </div>
-        <div className="relative bg-[#F56565]">
+        <div className="relative bg-[#FFFFFF] shadow-lg">
           <h1 className="text-[32px] text-[#1A202C] font-bold leading-[38.4px] w-[50%] ml-5 mt-5">
             Download the app
           </h1>
           <img
             src="./images/ssi1.svg"
             alt=" "
-            className=" absolute right-5 bottom-0  "
+            className=" absolute right-5 bottom-5  "
           />
         </div>
-        <div className="relative bg-[#F56565]">
+        <div className="relative bg-[#FFFFFF] shadow-lg">
           <h1 className="text-[32px] text-[#1A202C] font-bold leading-[38.4px] w-[50%] ml-5 mt-5">
             Download the app
           </h1>
           <img
             src="./images/ssi1.svg"
             alt=" "
-            className=" absolute right-5 bottom-0  "
+            className=" absolute right-5 bottom-5  "
           />
         </div>
       </div>

@@ -1,8 +1,9 @@
+/* eslint-disable react/no-unescaped-entities */
 /* eslint-disable @next/next/no-img-element */
 
 export default function Fourth() {
   return (
-    <div className="mx-auto container mt-[155px]  ">
+    <div className="mx-auto container mt-20  ">
       <img
         src="./images/Divider.svg"
         alt=" "
@@ -10,9 +11,9 @@ export default function Fourth() {
       />
       <div className="flex justify-center  space-x-[96.07px]   ">
         <img src="./images/fi.svg" alt=" " className="" />
-        <img src="./images/fi.svg" alt=" " className="" />
-        <img src="./images/fi.svg" alt=" " className="" />
-        <img src="./images/fi.svg" alt=" " className="" />
+        <img src="./images/fi2.svg" alt=" " className="" />
+        <img src="./images/fi3.svg" alt=" " className="" />
+        <img src="./images/fi4.svg" alt=" " className="" />
       </div>
       <h1 className="text-[64px] leading-[89.6px] tracking-[-2.5%] text-[#1A202C] text-center font-black w-[75%] mx-auto mt-[228.91px]">
         "Thanks guys, keep up the good work! I'd be lost without Prodify. The

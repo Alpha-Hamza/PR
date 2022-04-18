@@ -2,7 +2,7 @@
 
 export default function Footer() {
   return (
-    <div className="mx-auto container mt-[155px]   ">
+    <div className="mx-auto container mt-[155px] pb-10  ">
       <img src="./images/Logo.svg" alt=" " className="mx-auto" />
       <h1 className="text-[24px] font-black text-[#000000] mt-[20px] text-center">
         Build. Review. Ship.

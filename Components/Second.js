@@ -5,10 +5,9 @@ export default function Second() {
     <div className="mx-auto container mt-[155px]  ">
       <div className="flex">
         <div className="relative w-[50%]">
-          <img src="./images/SS.svg" alt=" " className="mt-[44px] " />
-          <div className=" absolute bg-opacity-[68%] top-[33%] left-[18%] bg-[#FFFFFF] w-[220px] h-[220px] rounded-full  flex justify-center items-center">
-          <img src="./images/ssi2.svg" alt=" " className=" cursor-pointer" />
-
+          <img src="./Images/SS.svg" alt=" " className="mt-[44px] " />
+          <div className=" absolute bg-opacity-[68%] hover:bg-opacity-[80%] top-[33%] left-[18%] bg-[#FFFFFF] w-[220px] h-[220px] rounded-full  flex justify-center items-center">
+            <img src="./Images/ssi2.svg" alt=" " className=" cursor-pointer" />
           </div>
         </div>
         <div className="w-[50%] mt-20">
@@ -22,7 +21,7 @@ export default function Second() {
             oversee the team that tailores a solution
           </p>
           <div className="flex mt-[24px]">
-            <img src="./images/ssi.svg" alt=" " className=" " />
+            <img src="./Images/ssi.svg" alt=" " className=" " />
             <div className="ml-[12px]">
               <h1 className="text-[28px] font-normal ">Rachel Dawson</h1>
               <p className="text-[18px] ">CEO, Globex Workspaces</p>
@@ -37,9 +36,9 @@ export default function Second() {
             Download the app
           </h1>
           <img
-            src="./images/ssi1.svg"
+            src="./Images/ssi1.svg"
             alt=" "
-            className=" absolute right-5 bottom-5 "
+            className=" absolute right-5 bottom-5 cursor-pointer "
           />
         </div>
         <div className="relative bg-[#FFFFFF] shadow-lg">
@@ -47,9 +46,9 @@ export default function Second() {
             Download the app
           </h1>
           <img
-            src="./images/ssi1.svg"
+            src="./Images/ssi1.svg"
             alt=" "
-            className=" absolute right-5 bottom-5  "
+            className=" absolute right-5 bottom-5  cursor-pointer "
           />
         </div>
         <div className="relative bg-[#FFFFFF] shadow-lg">
@@ -57,9 +56,9 @@ export default function Second() {
             Download the app
           </h1>
           <img
-            src="./images/ssi1.svg"
+            src="./Images/ssi1.svg"
             alt=" "
-            className=" absolute right-5 bottom-5  "
+            className=" absolute right-5 bottom-5 cursor-pointer "
           />
         </div>
         <div className="relative bg-[#FFFFFF] shadow-lg">
@@ -67,9 +66,9 @@ export default function Second() {
             Download the app
           </h1>
           <img
-            src="./images/ssi1.svg"
+            src="./Images/ssi1.svg"
             alt=" "
-            className=" absolute right-5 bottom-5  "
+            className=" absolute right-5 bottom-5 cursor-pointer "
           />
         </div>
       </div>

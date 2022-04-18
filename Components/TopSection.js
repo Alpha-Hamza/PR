@@ -14,7 +14,7 @@ export default function TopSection() {
             The next big thing starts here. Get Prodify and be the first to
             market with an integrated product that you love
           </p>
-          <button className="w-full h-[72px] bg-[#E55278] hover:bg-[#D53F8C] text-[28px] font-bold text-white rounded-[6px] mt-[43px]">
+          <button className="w-full h-[72px] bg-[#E55278] hover:bg-[none] text-[28px] font-bold text-white rounded-[6px] mt-[43px]">
             Let’s Build
           </button>
         </div>

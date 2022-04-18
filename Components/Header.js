@@ -2,9 +2,9 @@
 
 export default function Header() {
   return (
-    <div className=" mx-auto container">
-      <div className="absolute  right-0   ">
-        <img src="./Images/BG1.svg" alt=" " className="  " />
+    <div className="mx-auto container ">
+      <div className="absolute  ">
+        <img src="./Images/BG1.svg" alt=" " className=" " />
         <img
           src="./Images/desktop.svg"
           alt=" "
@@ -29,6 +29,7 @@ export default function Header() {
           </div>
         </div>
       </div>
+      
     </div>
   );
 }

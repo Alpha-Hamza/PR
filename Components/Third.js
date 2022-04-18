@@ -49,7 +49,7 @@ export default function Third() {
               <div className="flex relative ml-5 mt-[37px]">
                 <img src="./Images/TSi2.svg" alt=" " className="" />
                 <img
-                  src="./Images/TSi3.svg"
+                  src="./Images/Tsi3.svg"
                   alt=" "
                   className="absolute left-0"
                 />
@@ -68,17 +68,21 @@ export default function Third() {
                 <h1 className="text-[24px] font-black text-[#1A202C]">
                   New Event{" "}
                 </h1>
-                <img src="./Images/TSi4.svg" alt=" " className="mt-[24px]" />
-                <img src="./Images/TSi5.svg" alt=" " className="mt-[17px]" />
-                <img src="./Images/TSi6.svg" alt=" " className="my-[11px]" />
-                <img src="./Images/TSi6.svg" alt=" " className="mb-[13.95px]" />
+                <img src="./Images/Tsi4.svg" alt=" " className="mt-[24px]" />
+                <img src="./Images/Tsi5.svg" alt=" " className="mt-[17px]" />
+                <img src="./Images/Tsi6.svg" alt=" " className="my-[11px]" />
+                <img src="./Images/Tsi6.svg" alt=" " className="mb-[13.95px]" />
               </div>
               <div className=" flex mt-[15px]">
                 <div className="ml-5 relative flex justify-center items-center">
-                  <img src="./Images/TSi7.svg" alt=" " className="" />
-                  <img src="./Images/TSi8.svg" alt=" " className="absolute" />
+                  <img src="./Images/Tsi7.svg" alt=" " className="" />
+                  <img src="./Images/Tsi8.svg" alt=" " className="absolute" />
                 </div>
-                <img src="./Images/TSi9.svg" alt=" " className="ml-auto mr-5 cursor-pointer" />
+                <img
+                  src="./Images/Tsi9.svg"
+                  alt=" "
+                  className="ml-auto mr-5 cursor-pointer"
+                />
               </div>
             </div>
           </div>
@@ -122,13 +126,13 @@ export default function Third() {
                 Assigned to: Josh Rollins
               </h1>
               <div className="flex mt-[20px]">
-                <img src="./Images/TSi10.svg" alt=" " className="" />
+                <img src="./Images/Tsi10.svg" alt=" " className="" />
                 <h1 className="ml-[10px] text-[14px] font-semibold text-[#2D3748]">
                   Specter Consultancy
                 </h1>
               </div>
               <div className="flex mt-[5px]">
-                <img src="./Images/TSi11.svg" alt=" " className="" />
+                <img src="./Images/Tsi11.svg" alt=" " className="" />
                 <h1 className="ml-[10px] text-[14px] font-semibold text-[#2D3748]">
                   2,354 USD
                 </h1>
@@ -137,7 +141,7 @@ export default function Third() {
                 <button className=" pr-5 tracking-[0.06 px] w-[124.57px] h-[28px] bg-[#E55278] hover:bg-[#D53F8C] text-[12px] font-semibold text-[#FFFFFF] rounded-[6px] ">
                   View Invoice
                 </button>
-                <img src="./Images/TSi12.svg" alt=" " className="-ml-8  " />
+                <img src="./Images/Tsi12.svg" alt=" " className="-ml-8  " />
               </div>
             </div>
           </div>

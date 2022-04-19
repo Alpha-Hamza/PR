@@ -2,8 +2,8 @@
 
 export default function Third() {
   return (
-    <div className="bg-[#FDF7F7] ">
-      <div className="mx-auto container pt-[300px] pb-20   ">
+    <div className="bg-[#FDF7F7]  ">
+      <div className="mx-auto container pt-[300px] pb-20 max-w-[90%]   ">
         <div className="flex">
           <div className="w-[800px] mt-20">
             <h1 className="text-[64px] leading-[70.4px] tracking-[-2.5%] font-black text-[#1A202C] ">

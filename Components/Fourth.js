@@ -3,7 +3,7 @@
 
 export default function Fourth() {
   return (
-    <div className="mx-auto container mt-20  ">
+    <div className="mx-auto container mt-20   ">
       <img
         src="./Images/Divider.svg"
         alt=" "

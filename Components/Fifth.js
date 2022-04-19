@@ -2,7 +2,7 @@
 
 export default function Fifth() {
   return (
-    <div className="mx-auto container mt-[155px]  ">
+    <div className="mx-auto container mt-[155px]   ">
       <div className="relative flex justify-center">
         <img src="./Images/Fifth.svg" alt=" " className="rounded-[8px]" />
         <div className="absolute flex justify-center  ">

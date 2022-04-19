@@ -2,9 +2,9 @@
 
 export default function Second() {
   return (
-    <div className="mx-auto container mt-[155px]  ">
+    <div className="mx-auto container mt-[155px] max-w-[90%]  ">
       <div className="flex">
-        <div className="relative w-[50%]">
+        <div className="relative w-[100%]">
           <img src="./Images/SS.svg" alt=" " className="mt-[44px] " />
           <div className=" absolute bg-opacity-[68%] hover:bg-opacity-[80%] top-[33%] left-[18%] bg-[#FFFFFF] w-[220px] h-[220px] rounded-full  flex justify-center items-center">
             <img src="./Images/ssi2.svg" alt=" " className=" cursor-pointer" />

@@ -3,7 +3,7 @@ import Header from "./Header";
 
 export default function TopSection() {
   return (
-    <div className=" mx-auto container flex max-w-[90%] ">
+    <div className=" mx-auto container flex 2xl:w-full  w-[90%] ">
       <div className="w-[50%]    ">
         <img src="./Images/Logo.svg" alt=" " className="mt-[44px] " />
         <div className=" 2xl:w-[515px] xl:w-[500px] lg:w-[90%] md:w-[90%]   mt-[145px]">
